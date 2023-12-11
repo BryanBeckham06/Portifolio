@@ -808,4 +808,18 @@ textarea {
   .card4:hover .discord {
     fill: white;
   }
+
+    button {
+      width: 120px;
+      height: 60px;
+      border-radius: 24px;
+      margin-top: 5px;
+    }
+    .card img {
+      width: 300px; 
+      height: 200px;
+    }
+    .text {
+      margin:20px
+    }
   
